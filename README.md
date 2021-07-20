@@ -1,24 +1,5 @@
 # howmanydaysuntil
 
-## Project setup
-```
-npm install
-```
+https://berkinakkaya.github.io/HowManyDaysUntil/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Screenshot](https://user-images.githubusercontent.com/32297518/126365705-11060aaf-8d3f-43b9-b8fd-965384a75bf0.jpg)
